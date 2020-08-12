@@ -1,0 +1,17 @@
+[
+  {
+    "movie_name":"movie1",
+    "description":"description 1",
+    "movie_image":"/images/image1.jpg"
+  },
+  {
+    "movie_name":"movie2",
+    "description":"description 2",
+    "movie_image":"/images/image2.jpg"
+  },
+  {
+    "movie_name":"movie3",
+    "description":"description 3",
+    "movie_image":"/images/image3.jpg"
+  }
+]
